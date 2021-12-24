@@ -1,2 +1,1 @@
-# rsschool-cv1-netget1-
-my CV 1
+# my super sv
